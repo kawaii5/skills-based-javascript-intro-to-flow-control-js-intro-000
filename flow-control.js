@@ -7,7 +7,7 @@ function teenager(age) {
 }
 
 function ageChecker(age) {
-  return "You have an age"
+
 }
 
 function ternaryTeenager(age) {
