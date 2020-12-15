@@ -11,7 +11,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-  return "You are a kid!"
+  return "You are a kid"
 }
 
 function switchAge(age) {
